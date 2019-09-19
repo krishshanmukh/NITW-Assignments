@@ -1,0 +1,5 @@
+1 abcdefghijklmnopqrstuvwxyz    
+1 abcdefghijklmnopqrstuvwxyz    0 1 fan    
+1 abcdefghijklmnopqrstuvwxyz    
+1 abcdefghijklmnopqrstuvwxyz    
+0 2 carriage    0 0 car    
